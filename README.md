@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 # Hey! I'm Electron
 > Personal web : <https://euser114514.github.io>  
-> Twitter : [@ElectronDZ75](https://twitter.com/MCElectron75)  
+> Twitter : [@ElectronDZ75](https://twitter.com/ElectronDZ75)  
 > Bilibili : [Minecraft_DZ](https://space.bilibili.com/553343171)  
 > Email :  
 >+ Microsoft Email : electrondz75@outloock.com
