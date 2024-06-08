@@ -19,13 +19,12 @@ Here are some ideas to get you started:
 > Twitter : [@ElectronDZ75](https://twitter.com/ElectronDZ75)  
 > Bilibili : [Minecraft_DZ](https://space.bilibili.com/553343171)  
 > Email :  
->+ Microsoft Email : electrondz75@outloock.com
->+ Google Email : xukunc088@gmail.com  
+>+ Microsoft Email : electrondz75@outloock.com  
 >+ QQ Email : 316951535@qq.com  
 
 # Some sources link
 资源总站↓  
-[<img src="https://eUsEr114514.github.io/linkImage/Picture/githubPageMD/kaola.png" width="20%">](https://www.rjctx.com)
+[<img src="https://eUsEr114514.github.io/linkImage/Picture/githubPageMD/kaola.png" width="10%">](https://www.rjctx.com)
 > [<img src="https://eUsEr114514.github.io/linkImage/Picture/githubPageMD/pycharm.jpg" width="10%">](https://www.rjctx.com/bcrj/jetbrains/pycharm)
 > [<img src="https://eUsEr114514.github.io/linkImage/Picture/githubPageMD/clion.jpg" width="10%">](https://www.rjctx.com/bcrj/jetbrains/clion)
 > [<img src="https://eUsEr114514.github.io/linkImage/Picture/githubPageMD/idea.jpg" width="10%">](https://www.rjctx.com/bcrj/jetbrains/idea)
